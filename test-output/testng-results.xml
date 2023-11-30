@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-29T18:47:10 PST" name="Default suite" finished-at="2023-11-29T18:47:14 PST" duration-ms="4159">
+    <groups>
+    </groups>
+    <test started-at="2023-11-29T18:47:10 PST" name="Default test" finished-at="2023-11-29T18:47:14 PST" duration-ms="4159">
+      <class name="homework">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:homework@3829ac1]" started-at="2023-11-29T18:47:10 PST" name="myBeforeTest" finished-at="2023-11-29T18:47:11 PST" duration-ms="1730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method signature="logintest()[pri:1, instance:homework@3829ac1]" started-at="2023-11-29T18:47:11 PST" name="logintest" finished-at="2023-11-29T18:47:12 PST" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="AddToCart()[pri:2, instance:homework@3829ac1]" started-at="2023-11-29T18:47:12 PST" name="AddToCart" finished-at="2023-11-29T18:47:13 PST" duration-ms="1241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method is-config="true" signature="myAfterTest()[pri:0, instance:homework@3829ac1]" started-at="2023-11-29T18:47:13 PST" name="myAfterTest" finished-at="2023-11-29T18:47:14 PST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+      </class> <!-- homework -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
